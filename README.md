@@ -1,6 +1,6 @@
 # Oi, me chamo Humberto Campos 👋
 
-💻 Eu sou um desenvolvedor [Front-End]
+💻 Eu sou um desenvolvedor [Back-End]
 
 🎓 Cursando [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Cubos Academy](https://cubos.academy/) | 
 
