@@ -6,8 +6,6 @@
 
 🎓 Graduando em Sistemas de Informação | Cin UFPE |
 
-Interesses: Café ☕, Animes 👾, musica 🎵
-
 ### Eu já trabalhei com... 🔧
 
 **Tecnologias e Ferramentas**
