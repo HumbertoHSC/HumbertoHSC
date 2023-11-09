@@ -1,12 +1,10 @@
-# Oi, me chamo Humberto Campos 👋
+# Ola, me chamo Humberto Campos 👋
 
 💻 Eu sou um desenvolvedor [Back-End]
 
-🎓 Cursando [Desenvolvimento de Software com Foco em Back-End](https://cubos.academy/cursos/desenvolvimento-de-software-v2) | [Cubos Academy](https://cubos.academy/) | 
-
 🎓 Graduando em Sistemas de Informação | Cin UFPE |
 
-### Eu já trabalhei com... 🔧
+### Eu já trabalhei com...
 
 **Tecnologias e Ferramentas**
 
@@ -19,7 +17,11 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-![Humberto Campos GitHub](https://github-readme-stats.vercel.app/api?username=humbertohccampos&show_icons=true&theme=radical)
+## 💻
+- Desenvolvimento Back-end com JavaScript e Node.js
+- Criação de APIs REST 🌐
+- Gerenciamento de bancos de dados, incluindo PostgreSQL e SQL 📊
+- Proficiência em Git e metodologias ágeis 🌀
 
 ### Entre em contato comigo! 📭
 <div>
