@@ -1,10 +1,8 @@
 💡 Ola, Me chamo Humberto Campos 👋
 
-💻 Eu sou um desenvolvedor [Back-End]
+💻 Desenvolvedor [Back-End]
 
 🎓 Graduando em Sistemas de Informação | Cin UFPE |
-
-### Eu já trabalhei com...
 
 **Tecnologias e Ferramentas**
 
