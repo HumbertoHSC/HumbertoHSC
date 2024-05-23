@@ -1,6 +1,6 @@
 💡 Ola, Me chamo Humberto Campos 👋
 
-💻 Desenvolvedor [Back-End]
+💻 Desenvolvedor [Analista de Dados] | [Back-End]
 
 🎓 Graduando em Sistemas de Informação | Cin UFPE |
 
@@ -18,8 +18,8 @@
 
 ## 💻
 - Desenvolvimento Back-end com JavaScript e Node.js
+- Análise de Dados: Coleta, limpeza, e análise de dados 📈
 - Criação de APIs REST 🌐
-- Gerenciamento de bancos de dados, incluindo PostgreSQL e SQL 📊
 - Proficiência em Git e metodologias ágeis 🌀
 
 ### Entre em contato comigo! 📭
