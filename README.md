@@ -1,6 +1,6 @@
 💡 Ola, Me chamo Humberto Campos 👋
 
-💻 Desenvolvedor [Analista de Dados] | [Back-End]
+💻 Desenvolvedor [Back-End] | [Cientista de Dados]
 
 🎓 Graduando em Sistemas de Informação | Cin UFPE |
 
